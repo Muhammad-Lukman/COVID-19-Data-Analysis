@@ -60,11 +60,11 @@ Analyzing mobility changes during the pandemic.
 | Country  | Visualization |
 |----------|--------------|
 | **China** | ![China Mobility](images/China%20—%20Mobility%20Trends.png) |
-| **India** | ![India Mobility](images/India%20—%20Mobility%20Trends.png) |
+| **India** | ![India Mobility](images/Individual%20Mobility%20Trends%20in%20India%20with%20Context.png) |
 | **Pakistan** | ![Pakistan Mobility](images/Pakistan%20—%20Mobility%20Trends.png) |
 
 ---
-
+images/India%20—%20Mobility%20Trends.png
 ### **4. Weather Variables**
 Exploring how temperature and weather conditions may relate to COVID-19 case counts.
 
