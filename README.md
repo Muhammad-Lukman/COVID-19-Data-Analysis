@@ -84,10 +84,12 @@ The predictive model forecasts **daily new confirmed cases per capita**.
 - **R²**: `0.5679`
 - **MSE**: `0.0000000002`
 
-> These small error values are due to the scale of the target variable. Advanced time-series models like **LSTM** or **ARIMA** could further improve performance.
+These results indicate that the model captures a decent portion of the variance in the target variable, though the tiny error values are due to the small scale of the target variable (`new_confirmed_per_capita`).
+
 
 ![Actual vs Predicted](images/Actual%20vs%20Predicted%20COVID-19%20Cases.png)
 
+> **Note**: This is an initial model. The temporal nature of the data requires more advanced time-series modeling techniques (e.g., ARIMA, LSTMs) for optimal results.
 ---
 
 ## **How to Run**
