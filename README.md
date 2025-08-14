@@ -63,6 +63,10 @@ Analyzing mobility changes during the pandemic.
 | **India** | ![India Mobility](images/Individual%20Mobility%20Trends%20in%20India%20with%20Context.png) |
 | **Pakistan** | ![Pakistan Mobility](images/Individual%20Mobility%20Trends%20in%20Pakistan%20with%20Context.png) |
 
+**Combined Trends Across Countries**
+
+![COVID-19 Case Trends and Government Response Stringency (2020-2022)](images/COVID-19%20Case%20Trends%20and%20Government%20Response%20Stringency%20(2020-2022).png)
+
 ---
 
 ### **4. Weather Variables**
