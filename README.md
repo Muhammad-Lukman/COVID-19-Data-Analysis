@@ -34,6 +34,7 @@ Tracking daily confirmed COVID-19 cases over time.
 ![7-Day Rolling Average](images/7-Day%20Rolling%20Average%20of%20Confirmed%20Cases%20Over%20Time.png)
 
 Tracking COVID-19 Case Trends and Government Response Stringency (stringency 0-100, higher the better/stricter)
+
 ![COVID-19 Case Trends and Government Response Stringency (2020-2022](images/COVID-19%20Case%20Trends%20and%20Government%20Response%20Stringency%20(2020-2022).png)
 
 ---
@@ -51,6 +52,10 @@ Comparing policy interventions with case numbers.
 
 ### **3. Human Mobility Trends**
 Analyzing mobility changes during the pandemic.
+
+- A value of 0% indicates that mobility is at the same level as the baseline.
+- A value of -50% means that mobility has decreased by 50% compared to the baseline.
+- A value of +25% means that mobility has increased by 25% compared to the baseline.
 
 | Country  | Visualization |
 |----------|--------------|
