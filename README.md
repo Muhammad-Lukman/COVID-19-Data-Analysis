@@ -111,3 +111,16 @@ cd COVID-19-Data-Analysis
 pip install -r requirements.txt
 
 ```
+---
+
+## **Citation**
+
+```bash
+@article{Wahltinez2020,
+  author = "O. Wahltinez and others",
+  year = 2020,
+  title = "COVID-19 Open-Data: curating a fine-grained, global-scale data repository for SARS-CoV-2",
+  note = "Work in progress",
+  url = {https://goo.gle/covid-19-open-data},
+}
+```
